@@ -58,7 +58,7 @@ const LandingPageComponent = () => {
                     <DateBox month={month} day={day} />
                 </div>
             </div>
-            <div className=' flex w-full justify-end gap-2 font-bold text-gray-600 text-sm cursor-pointer hover:text-gray-600/40 items-center'>
+            <div className=' flex w-full justify-end gap-2 font-bold text-gray-600 text-sm cursor-pointer hover:text-gray-600/40 items-center pr-4'>
                 <div>
                     <ShareFat size={20} />
                 </div>
